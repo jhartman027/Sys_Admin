@@ -1,10 +1,4 @@
 import webbrowser
-webbrowser.get('safari').open('https://www.foxnews.com')
 webbrowser.get('safari').open('https://www.weather.com')
-webbrowser.get('safari').open('https://www.biblestudytools.com/bible-study/today-s-devotionals/')
-webbrowser.get('safari').open('https://www.osxdaily.com')
-webbrowser.get('safari').open('https://www.espn.com/chicago/')
 webbrowser.get('safari').open('https://www.facebook.com')
-webbrowser.get('safari').open('https://www.darkreading.com')
-webbrowser.get('safari').open('https://www.christianheadlines.com')
-webbrowser.get('firefox').open('https://www.foxnews.com')
+webbrowser.get('firefox').open('https://www.google.com')
